@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "thumb": "bg_1.jpg",
+        "subTitle": "",
+        "title": "The teacher is the voice of Truth, not the man behind the voice.",
+        "text": "It is the intensity and the audacity in the setting of the Bhagavad Gita that keeps it way above any scripture in terms of its relevance, its significance.",
+        "btnText": "Apply Now",
+        "btnLink": "contact-us",
+        "shape": "banner-shape.png"
+    },
+    {
+        "id": 2,
+        "thumb": "bg_2.jpg",
+        "subTitle": "",
+        "title": "Death is as sure for that which is born, as birth is for that which is dead.",
+        "text": "The most certain thing in life is that we will meet with death one day. So when something is inevitable, why lament over it?",
+        "btnText": "Apply Now",
+        "btnLink": "contact-us",
+        "shape": "banner-shape.png"
+    }
+]
